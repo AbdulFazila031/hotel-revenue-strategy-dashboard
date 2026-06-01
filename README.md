@@ -1,7 +1,8 @@
 **Hotel Revenue Strategy Dashboard**
 Project Overview
 
-This project analyzes hotel revenue performance and identifies upselling opportunities through spa, dining, and additional services. The dashboard also provides pricing insights based on room type and seasonal demand.
+This project analyzes hotel revenue performance and identifies upselling opportunities through spa, dining, and additional services.
+The dashboard also provides pricing insights based on room type and seasonal demand.
 
 **Objectives**
 1Analyze hotel revenue trends
