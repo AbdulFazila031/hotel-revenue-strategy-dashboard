@@ -1,42 +1,26 @@
-**Hotel Revenue Strategy Dashboard**
-Project Overview
+# Hotel Revenue Strategy Dashboard: Upsell Analytics & Pricing Optimization
 
-This project analyzes hotel revenue performance and identifies upselling opportunities through spa, dining, and additional services.
-The dashboard also provides pricing insights based on room type and seasonal demand.
+This project presents an interactive Power BI dashboard designed to help hotel General Managers and Revenue Managers monitor revenue performance, identify upselling opportunities, and optimize pricing strategies. The dashboard analyzes room revenue, ancillary revenue streams such as spa and dining services, seasonal demand patterns, and room-type performance to support data-driven decision-making.
 
-**Objectives**
-1Analyze hotel revenue trends
-Identify upsell opportunities
-Evaluate ancillary revenue streams
-Support pricing strategy decisions
-Build an interactive dashboard for managers
-**Tools Used**
-Power BI
-Microsoft Excel
-DAX
-**Key Metrics**
-Total Revenue
-Room Revenue
-Spa Revenue
-Dining Revenue
-Average Room Rate
-Ancillary Revenue
-**Dashboard Features**
-Revenue Overview
-Upsell Analysis
-Pricing Strategy Insights
-Interactive Filters
-**Dataset**
+**Key features include:**
 
-The dataset includes:
+* Revenue performance analysis
+* Upsell opportunity identification
+* Seasonal pricing insights
+* Room type profitability analysis
+* Interactive filtering and visualization
+* KPI tracking for strategic decision-making
 
-Booking Information
-Room Types
-Seasonal Data
-Spa Revenue
-Dining Revenue
-Guest Information
+**Tools Used:**
+
+* Power BI
+* DAX
+* Microsoft Excel
+
+The dashboard enables stakeholders to gain actionable insights into hotel operations and revenue optimization strategies.
+
 
 **Author**
 
 **Fazila Abdul**
+
